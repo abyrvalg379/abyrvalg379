@@ -1,4 +1,4 @@
-# maksim_kovalev
+# Maksim Kovalev
 
 **Blender Addon Developer**
 
