@@ -2,7 +2,7 @@
 
 **Blender Addon Developer**
 
-Building production tools for 3D artists — asset validation, lighting management, texture workflows, color management across DCC applications.
+Building production tools for 3D artists - asset validation, lighting management, texture workflows, color management across DCC applications.
 
 ## 🔧 Projects
 
