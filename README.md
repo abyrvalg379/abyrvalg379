@@ -1,8 +1,8 @@
 # Maksim Kovalev
 
-**Blender Addon Developer**
+**CG Pipeline & Tools Developer**
 
-Building production tools for 3D artists - asset validation, lighting management, texture workflows, color management across DCC applications.
+Building production tools for 3D artists — asset validation, DCC integration, texture workflows and color management.
 
 ## 🔧 Projects
 
