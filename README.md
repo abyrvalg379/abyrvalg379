@@ -1,6 +1,6 @@
 # Maksim Kovalev
 
-**CG Pipeline & Tools Developer**
+**CG Tools Developer**
 
 Building production tools for 3D artists — asset validation, DCC integration, texture workflows and color management.
 
