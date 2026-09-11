@@ -1,9 +1,5 @@
 # Maksim Kovalev
 
-**CG Tools Developer**
-
-Building production tools for 3D artists - asset validation, DCC integration, face-wrapping pipelines, texture workflows and color management.
-
 ## 🔧 Projects
 
 | Tool | Description | Stack |
@@ -15,11 +11,3 @@ Building production tools for 3D artists - asset validation, DCC integration, fa
 | [FILTER](https://github.com/abyrvalg379/FILTER) | Toggle visibility and selection by type, name, collection | Python · Blender API |
 | [Switch_UDIM](https://github.com/abyrvalg379/Switch_UDIM) | Switch Image Textures between Single Image and UDIM Tiles | Python · Blender API |
 | [WrapBridge](https://github.com/abyrvalg379/wrapbridge) | Bridge to Faceform Wrap: send, compute, import back | Python · Blender API |
-
-## 🛠 Tech Stack
-
-`Python` · `Blender API` · `Maya` · `Houdini` · `Faceform Wrap` · `C#` · `OpenColorIO` · `FBX Pipeline`
-
-## 🔗 Links
-
-[![ArtStation](https://img.shields.io/badge/ArtStation-mkovalev89-blue?logo=artstation&logoColor=white)](https://www.artstation.com/mkovalev89)
