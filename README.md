@@ -13,4 +13,4 @@
 | [Switch_UDIM](https://github.com/abyrvalg379/Switch_UDIM) | Switch Image Textures between Single Image and UDIM Tiles | Python · Blender API |
 | [WrapBridge](https://github.com/abyrvalg379/wrapbridge) | Bridge to Faceform Wrap: send, compute, import back | Python · Blender API |
 | [FBX ASCII Import](https://github.com/abyrvalg379/fbx-ascii-import) | Import ASCII FBX (Houdini's default export format) and Houdini .geo files | Python · Blender API |
-| [TOCHKA](https://github.com/abyrvalg379/tochka) | Pivot toolkit: move, drag, rotate and audit object pivots in one gesture | Python · Blender API |
+| [TOCHKA](https://github.com/abyrvalg379/tochka) | Pivot toolkit: orient pivots to normals and edges, then position and rotate | Python · Blender API |
