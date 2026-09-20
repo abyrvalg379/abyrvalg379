@@ -12,7 +12,7 @@ Pipeline & production tools: asset validation, lighting, pivots, color managemen
 |------|-------------|----------|
 | [STUKACH](https://github.com/abyrvalg379/STUKACH) | Pipeline asset validator — 42 checkers, live mode, GPU overlays | [zip](https://github.com/abyrvalg379/STUKACH/releases/latest) |
 | [LAMPOCHKA](https://github.com/abyrvalg379/LAMPOCHKA) | Scene light manager + HDRI / IES / gobo browsers | [zip](https://github.com/abyrvalg379/LAMPOCHKA/releases/latest) |
-| [FILTER](https://github.com/abyrvalg379/FILTER) | Toggle visibility and selection by type, name, collection | [zip](https://github.com/abyrvalg379/FILTER/releases/latest) |
+| [FILTER](https://github.com/abyrvalg379/FILTER) | Toggle visibility/selection by type, name, collection + bulk modifier management (apply, remove, diff) | [zip](https://github.com/abyrvalg379/FILTER/releases/latest) |
 | [TOCHKA](https://github.com/abyrvalg379/tochka) | Pivot toolkit: orient pivots to normals / edges, drag & rotate | [zip](https://github.com/abyrvalg379/tochka/releases/latest) |
 | [KARUSELKA](https://github.com/abyrvalg379/karuselka) | Fast camera turntable rig: orbit or object spin | [zip](https://github.com/abyrvalg379/karuselka/releases/latest) |
 | [Switch_UDIM](https://github.com/abyrvalg379/Switch_UDIM) | Switch Image Textures between Single Image and UDIM Tiles | [zip](https://github.com/abyrvalg379/Switch_UDIM/releases/latest) |
@@ -41,7 +41,7 @@ Pipeline & production tools: asset validation, lighting, pivots, color managemen
 |------|-------------|----------|
 | [STUKACH](https://github.com/abyrvalg379/STUKACH) | Пайплайн-валидатор ассетов — 42 чекера, live-режим, GPU-оверлеи | [zip](https://github.com/abyrvalg379/STUKACH/releases/latest) |
 | [LAMPOCHKA](https://github.com/abyrvalg379/LAMPOCHKA) | Менеджер света сцены + браузеры HDRI / IES / гобо | [zip](https://github.com/abyrvalg379/LAMPOCHKA/releases/latest) |
-| [FILTER](https://github.com/abyrvalg379/FILTER) | Видимость и выделение по типу, имени, коллекции | [zip](https://github.com/abyrvalg379/FILTER/releases/latest) |
+| [FILTER](https://github.com/abyrvalg379/FILTER) | Видимость/выделение по типу, имени, коллекции + массовое управление модификаторами | [zip](https://github.com/abyrvalg379/FILTER/releases/latest) |
 | [TOCHKA](https://github.com/abyrvalg379/tochka) | Инструменты для пивотов: ориентация по нормалям / рёбрам, драг и поворот | [zip](https://github.com/abyrvalg379/tochka/releases/latest) |
 | [KARUSELKA](https://github.com/abyrvalg379/karuselka) | Быстрый турнтейбл-риг: орбита или спин объекта | [zip](https://github.com/abyrvalg379/karuselka/releases/latest) |
 | [Switch_UDIM](https://github.com/abyrvalg379/Switch_UDIM) | Переключение Image Texture между Single Image и UDIM Tiles | [zip](https://github.com/abyrvalg379/Switch_UDIM/releases/latest) |
