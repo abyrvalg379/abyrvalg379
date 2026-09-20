@@ -1,9 +1,11 @@
 # Maksim Kovalev
 
 Pipeline & production tools: asset validation, lighting, pivots, color management.
+
 Пайплайн- и продакшн-тулы: валидация ассетов, свет, пивоты, колорменеджмент.
 
 *Docs in English and Russian in every repo · download links point to the latest release.*
+
 *Документация на английском и русском в каждом репозитории · ссылки ведут на последний релиз.*
 
 ## 🔧 Blender
