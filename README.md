@@ -1,3 +1,5 @@
+![Pipeline Tools](banner.png)
+
 # Maksim Kovalev
 
 Pipeline & production tools: asset validation, lighting, pivots, color management.
