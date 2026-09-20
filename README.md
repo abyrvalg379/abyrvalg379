@@ -1,16 +1,61 @@
 # Maksim Kovalev
 
-## 🔧 Projects
+Pipeline & production tools: asset validation, lighting, pivots, color management.
+Пайплайн- и продакшн-тулы: валидация ассетов, свет, пивоты, колорменеджмент.
 
-| Tool | Description | Stack |
-|------|-------------|-------|
-| [STUKACH](https://github.com/abyrvalg379/STUKACH) | Pipeline asset validator for Blender | Python · Blender API |
-| [STUKACH_Maya](https://github.com/abyrvalg379/STUKACH_Maya) | Pipeline asset validator for Maya: 36 checkers, viewport overlay, one-click fixes | Python · PySide · Maya API (C++ VP2 plugin) |
-| [LAMPOCHKA](https://github.com/abyrvalg379/LAMPOCHKA) | Scene light manager with auto-sync viewport | Python · Blender API |
-| [KARUSELKA](https://github.com/abyrvalg379/karuselka) | Fast camera turntable rig: orbit or object spin, output presets | Python · Blender API |
-| [FLOMASTER](https://github.com/abyrvalg379/FLOMASTER) | OCIO Launcher for DCC applications | C# · OpenColorIO |
-| [FILTER](https://github.com/abyrvalg379/FILTER) | Toggle visibility and selection by type, name, collection | Python · Blender API |
-| [Switch_UDIM](https://github.com/abyrvalg379/Switch_UDIM) | Switch Image Textures between Single Image and UDIM Tiles | Python · Blender API |
-| [WrapBridge](https://github.com/abyrvalg379/wrapbridge) | Bridge to Faceform Wrap: send, compute, import back | Python · Blender API |
-| [FBX ASCII Import](https://github.com/abyrvalg379/fbx-ascii-import) | Import ASCII FBX (Houdini's default export format) and Houdini .geo files | Python · Blender API |
-| [TOCHKA](https://github.com/abyrvalg379/tochka) | Pivot toolkit: orient pivots to normals and edges, then position and rotate | Python · Blender API |
+*Docs in English and Russian in every repo · download links point to the latest release.*
+*Документация на английском и русском в каждом репозитории · ссылки ведут на последний релиз.*
+
+## 🔧 Blender
+
+| Tool | Description | Download |
+|------|-------------|----------|
+| [STUKACH](https://github.com/abyrvalg379/STUKACH) | Pipeline asset validator — 42 checkers, live mode, GPU overlays | [zip](https://github.com/abyrvalg379/STUKACH/releases/latest) |
+| [LAMPOCHKA](https://github.com/abyrvalg379/LAMPOCHKA) | Scene light manager + HDRI / IES / gobo browsers | [zip](https://github.com/abyrvalg379/LAMPOCHKA/releases/latest) |
+| [FILTER](https://github.com/abyrvalg379/FILTER) | Toggle visibility and selection by type, name, collection | [zip](https://github.com/abyrvalg379/FILTER/releases/latest) |
+| [TOCHKA](https://github.com/abyrvalg379/tochka) | Pivot toolkit: orient pivots to normals / edges, drag & rotate | [zip](https://github.com/abyrvalg379/tochka/releases/latest) |
+| [KARUSELKA](https://github.com/abyrvalg379/karuselka) | Fast camera turntable rig: orbit or object spin | [zip](https://github.com/abyrvalg379/karuselka/releases/latest) |
+| [Switch_UDIM](https://github.com/abyrvalg379/Switch_UDIM) | Switch Image Textures between Single Image and UDIM Tiles | [zip](https://github.com/abyrvalg379/Switch_UDIM/releases/latest) |
+| [FBX ASCII Import](https://github.com/abyrvalg379/fbx-ascii-import) | Import ASCII FBX (Houdini's default format) and Houdini .geo files | [zip](https://github.com/abyrvalg379/fbx-ascii-import/releases/latest) |
+| [WrapBridge](https://github.com/abyrvalg379/wrapbridge) | Faceform Wrap bridge: send base + scan, headless compute, import back | [zip](https://github.com/abyrvalg379/wrapbridge/releases/latest) |
+
+## 🎬 Maya
+
+| Tool | Description | Download |
+|------|-------------|----------|
+| [STUKACH_Maya](https://github.com/abyrvalg379/STUKACH_Maya) | Pipeline asset validator — 44 checkers, viewport overlay, one-click fixes | [zip](https://github.com/abyrvalg379/STUKACH_Maya/releases/latest) |
+
+## 🖥 Standalone
+
+| Tool | Description | Download |
+|------|-------------|----------|
+| [FLOMASTER](https://github.com/abyrvalg379/FLOMASTER) | OCIO launcher for DCC applications | [exe](https://github.com/abyrvalg379/FLOMASTER/releases/latest) |
+
+---
+
+## 🔧 Проекты
+
+### Blender
+
+| Тул | Описание | Скачать |
+|------|-------------|----------|
+| [STUKACH](https://github.com/abyrvalg379/STUKACH) | Пайплайн-валидатор ассетов — 42 чекера, live-режим, GPU-оверлеи | [zip](https://github.com/abyrvalg379/STUKACH/releases/latest) |
+| [LAMPOCHKA](https://github.com/abyrvalg379/LAMPOCHKA) | Менеджер света сцены + браузеры HDRI / IES / гобо | [zip](https://github.com/abyrvalg379/LAMPOCHKA/releases/latest) |
+| [FILTER](https://github.com/abyrvalg379/FILTER) | Видимость и выделение по типу, имени, коллекции | [zip](https://github.com/abyrvalg379/FILTER/releases/latest) |
+| [TOCHKA](https://github.com/abyrvalg379/tochka) | Инструменты для пивотов: ориентация по нормалям / рёбрам, драг и поворот | [zip](https://github.com/abyrvalg379/tochka/releases/latest) |
+| [KARUSELKA](https://github.com/abyrvalg379/karuselka) | Быстрый турнтейбл-риг: орбита или спин объекта | [zip](https://github.com/abyrvalg379/karuselka/releases/latest) |
+| [Switch_UDIM](https://github.com/abyrvalg379/Switch_UDIM) | Переключение Image Texture между Single Image и UDIM Tiles | [zip](https://github.com/abyrvalg379/Switch_UDIM/releases/latest) |
+| [FBX ASCII Import](https://github.com/abyrvalg379/fbx-ascii-import) | Импорт ASCII FBX (дефолтный формат Houdini) и файлов .geo | [zip](https://github.com/abyrvalg379/fbx-ascii-import/releases/latest) |
+| [WrapBridge](https://github.com/abyrvalg379/wrapbridge) | Мост в Faceform Wrap: отправка base + scan, headless-прогон, импорт результата | [zip](https://github.com/abyrvalg379/wrapbridge/releases/latest) |
+
+### Maya
+
+| Тул | Описание | Скачать |
+|------|-------------|----------|
+| [STUKACH_Maya](https://github.com/abyrvalg379/STUKACH_Maya) | Пайплайн-валидатор ассетов — 44 чекера, оверлей во вьюпорте, фиксы в один клик | [zip](https://github.com/abyrvalg379/STUKACH_Maya/releases/latest) |
+
+### Standalone
+
+| Тул | Описание | Скачать |
+|------|-------------|----------|
+| [FLOMASTER](https://github.com/abyrvalg379/FLOMASTER) | OCIO-лаунчер для DCC-приложений | [exe](https://github.com/abyrvalg379/FLOMASTER/releases/latest) |
