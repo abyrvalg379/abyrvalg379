@@ -22,12 +22,14 @@ Pipeline & production tools: asset validation, lighting, pivots, color managemen
 | [Switch_UDIM](https://github.com/abyrvalg379/Switch_UDIM) | Switch Image Textures between Single Image and UDIM Tiles | [zip](https://github.com/abyrvalg379/Switch_UDIM/releases/latest) |
 | [FBX ASCII Import](https://github.com/abyrvalg379/fbx-ascii-import) | Import ASCII FBX (Houdini's default format) and Houdini .geo files | [zip](https://github.com/abyrvalg379/fbx-ascii-import/releases/latest) |
 | [WrapBridge](https://github.com/abyrvalg379/wrapbridge) | Faceform Wrap bridge: send base + scan, headless compute, import back | [zip](https://github.com/abyrvalg379/wrapbridge/releases/latest) |
+| [PROKLADKA](https://github.com/abyrvalg379/prokladka) | FBX bridge Blender ↔ Maya ↔ Houdini ↔ UE: naming presets, UV conventions, rig transfer | [zip](https://github.com/abyrvalg379/prokladka/releases/latest) |
 
 ## 🎬 Maya
 
 | Tool | Description | Download |
 |------|-------------|----------|
 | [STUKACH_Maya](https://github.com/abyrvalg379/STUKACH_Maya) | Pipeline asset validator — 44 checkers, viewport overlay, one-click fixes | [zip](https://github.com/abyrvalg379/STUKACH_Maya/releases/latest) |
+| [PROKLADKA](https://github.com/abyrvalg379/prokladka) | FBX bridge Blender ↔ Maya ↔ Houdini ↔ UE: naming presets, UV conventions, rig transfer | [zip](https://github.com/abyrvalg379/prokladka/releases/latest) |
 
 ## 🖥 Standalone
 
@@ -51,15 +53,18 @@ Pipeline & production tools: asset validation, lighting, pivots, color managemen
 | [Switch_UDIM](https://github.com/abyrvalg379/Switch_UDIM) | Переключение Image Texture между Single Image и UDIM Tiles | [zip](https://github.com/abyrvalg379/Switch_UDIM/releases/latest) |
 | [FBX ASCII Import](https://github.com/abyrvalg379/fbx-ascii-import) | Импорт ASCII FBX (дефолтный формат Houdini) и файлов .geo | [zip](https://github.com/abyrvalg379/fbx-ascii-import/releases/latest) |
 | [WrapBridge](https://github.com/abyrvalg379/wrapbridge) | Мост в Faceform Wrap: отправка base + scan, headless-прогон, импорт результата | [zip](https://github.com/abyrvalg379/wrapbridge/releases/latest) |
+| [PROKLADKA](https://github.com/abyrvalg379/prokladka) | FBX-мост Blender ↔ Maya ↔ Houdini ↔ UE: пресеты нейминга, UV-конвенции, перенос рига | [zip](https://github.com/abyrvalg379/prokladka/releases/latest) |
 
 ### Maya
 
 | Тул | Описание | Скачать |
 |------|-------------|----------|
 | [STUKACH_Maya](https://github.com/abyrvalg379/STUKACH_Maya) | Пайплайн-валидатор ассетов — 44 чекера, оверлей во вьюпорте, фиксы в один клик | [zip](https://github.com/abyrvalg379/STUKACH_Maya/releases/latest) |
+| [PROKLADKA](https://github.com/abyrvalg379/prokladka) | FBX-мост Blender ↔ Maya ↔ Houdini ↔ UE: пресеты нейминга, UV-конвенции, перенос рига | [zip](https://github.com/abyrvalg379/prokladka/releases/latest) |
 
 ### Standalone
 
 | Тул | Описание | Скачать |
 |------|-------------|----------|
 | [FLOMASTER](https://github.com/abyrvalg379/FLOMASTER) | OCIO-лаунчер для DCC-приложений | [exe](https://github.com/abyrvalg379/FLOMASTER/releases/latest) |
+
