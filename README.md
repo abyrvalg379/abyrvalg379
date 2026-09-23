@@ -25,7 +25,7 @@ Pipeline & production tools: asset validation, lighting, pivots, color managemen
 | [PROKLADKA](https://github.com/abyrvalg379/prokladka) | FBX bridge Blender ↔ Maya ↔ Houdini ↔ UE: naming presets, UV conventions, rig transfer | [zip](https://github.com/abyrvalg379/prokladka/releases/latest) |
 | [MCP Socket](https://github.com/abyrvalg379/mcp-socket) | MCP bridge for Blender: 18 typed tools for any MCP client, FBX pipeline presets, offscreen render | [zip](https://github.com/abyrvalg379/mcp-socket/releases/latest) |
 
-## 🎬 Maya
+## 🎬 DCC Tools
 
 | Tool | Description | Download |
 |------|-------------|----------|
@@ -59,7 +59,7 @@ Pipeline & production tools: asset validation, lighting, pivots, color managemen
 | [PROKLADKA](https://github.com/abyrvalg379/prokladka) | FBX-мост Blender ↔ Maya ↔ Houdini ↔ UE: пресеты нейминга, UV-конвенции, перенос рига | [zip](https://github.com/abyrvalg379/prokladka/releases/latest) |
 | [MCP Socket](https://github.com/abyrvalg379/mcp-socket) | MCP-мост для Blender: 18 типизированных тулов для любого MCP-клиента, FBX-пресеты, оффскрин-рендер | [zip](https://github.com/abyrvalg379/mcp-socket/releases/latest) |
 
-### Maya
+### DCC Tools
 
 | Тул | Описание | Скачать |
 |------|-------------|----------|
