@@ -23,7 +23,7 @@ Pipeline & production tools: asset validation, lighting, pivots, color managemen
 | [FBX ASCII Import](https://github.com/abyrvalg379/fbx-ascii-import) | Import ASCII FBX (Houdini's default format) and Houdini .geo files | [zip](https://github.com/abyrvalg379/fbx-ascii-import/releases/latest) |
 | [WrapBridge](https://github.com/abyrvalg379/wrapbridge) | Faceform Wrap bridge: send base + scan, headless compute, import back | [zip](https://github.com/abyrvalg379/wrapbridge/releases/latest) |
 | [PROKLADKA](https://github.com/abyrvalg379/prokladka) | FBX bridge Blender ↔ Maya ↔ Houdini ↔ UE: naming presets, UV conventions, rig transfer | [zip](https://github.com/abyrvalg379/prokladka/releases/latest) |
-| [MCP Socket](https://github.com/abyrvalg379/mcp-socket) | MCP bridge for Blender: 16 typed tools for any MCP client, FBX pipeline presets, offscreen render | [zip](https://github.com/abyrvalg379/mcp-socket/releases/latest) |
+| [MCP Socket](https://github.com/abyrvalg379/mcp-socket) | MCP bridge for Blender: 18 typed tools for any MCP client, FBX pipeline presets, offscreen render | [zip](https://github.com/abyrvalg379/mcp-socket/releases/latest) |
 
 ## 🎬 Maya
 
@@ -31,6 +31,7 @@ Pipeline & production tools: asset validation, lighting, pivots, color managemen
 |------|-------------|----------|
 | [STUKACH_Maya](https://github.com/abyrvalg379/STUKACH_Maya) | Pipeline asset validator — 44 checkers, viewport overlay, one-click fixes | [zip](https://github.com/abyrvalg379/STUKACH_Maya/releases/latest) |
 | [PROKLADKA](https://github.com/abyrvalg379/prokladka) | FBX bridge Blender ↔ Maya ↔ Houdini ↔ UE: naming presets, UV conventions, rig transfer | [zip](https://github.com/abyrvalg379/prokladka/releases/latest) |
+| [MCP Socket for Maya](https://github.com/abyrvalg379/mcp-socket-maya) | MCP bridge for Maya: 13 typed tools for any MCP client, agent-session undo, FBX pipeline presets | [zip](https://github.com/abyrvalg379/mcp-socket-maya/releases/latest) |
 
 ## 🖥 Standalone
 
@@ -55,7 +56,7 @@ Pipeline & production tools: asset validation, lighting, pivots, color managemen
 | [FBX ASCII Import](https://github.com/abyrvalg379/fbx-ascii-import) | Импорт ASCII FBX (дефолтный формат Houdini) и файлов .geo | [zip](https://github.com/abyrvalg379/fbx-ascii-import/releases/latest) |
 | [WrapBridge](https://github.com/abyrvalg379/wrapbridge) | Мост в Faceform Wrap: отправка base + scan, headless-прогон, импорт результата | [zip](https://github.com/abyrvalg379/wrapbridge/releases/latest) |
 | [PROKLADKA](https://github.com/abyrvalg379/prokladka) | FBX-мост Blender ↔ Maya ↔ Houdini ↔ UE: пресеты нейминга, UV-конвенции, перенос рига | [zip](https://github.com/abyrvalg379/prokladka/releases/latest) |
-| [MCP Socket](https://github.com/abyrvalg379/mcp-socket) | MCP-мост для Blender: 16 типизированных тулов для любого MCP-клиента, FBX-пресеты, оффскрин-рендер | [zip](https://github.com/abyrvalg379/mcp-socket/releases/latest) |
+| [MCP Socket](https://github.com/abyrvalg379/mcp-socket) | MCP-мост для Blender: 18 типизированных тулов для любого MCP-клиента, FBX-пресеты, оффскрин-рендер | [zip](https://github.com/abyrvalg379/mcp-socket/releases/latest) |
 
 ### Maya
 
@@ -63,6 +64,7 @@ Pipeline & production tools: asset validation, lighting, pivots, color managemen
 |------|-------------|----------|
 | [STUKACH_Maya](https://github.com/abyrvalg379/STUKACH_Maya) | Пайплайн-валидатор ассетов — 44 чекера, оверлей во вьюпорте, фиксы в один клик | [zip](https://github.com/abyrvalg379/STUKACH_Maya/releases/latest) |
 | [PROKLADKA](https://github.com/abyrvalg379/prokladka) | FBX-мост Blender ↔ Maya ↔ Houdini ↔ UE: пресеты нейминга, UV-конвенции, перенос рига | [zip](https://github.com/abyrvalg379/prokladka/releases/latest) |
+| [MCP Socket for Maya](https://github.com/abyrvalg379/mcp-socket-maya) | MCP-мост для Maya: 13 типизированных тулов для любого MCP-клиента, undo агентских сессий, FBX-пресеты | [zip](https://github.com/abyrvalg379/mcp-socket-maya/releases/latest) |
 
 ### Standalone
 
