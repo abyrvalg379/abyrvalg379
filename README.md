@@ -47,6 +47,7 @@ Pipeline & production tools: asset validation, lighting, pivots, color managemen
 | Tool | Description | Download | Ver |
 |------|-------------|----------|------|
 | [FLOMASTER](https://github.com/abyrvalg379/FLOMASTER) | OCIO launcher for DCC applications |  [exe](https://github.com/abyrvalg379/FLOMASTER/releases/latest) · [manual](https://github.com/abyrvalg379/FLOMASTER/blob/HEAD/docs/FLOMASTER_Manual_EN.pdf) | ![](https://img.shields.io/github/v/release/abyrvalg379/FLOMASTER?label=&style=flat-square&color=444c56) |
+| [SMENA](https://github.com/abyrvalg379/smena) | Passive time tracker — auto-captures the active window, task keywords, dashboard, themes, compact widget |  [exe](https://github.com/abyrvalg379/smena/releases/latest) | ![](https://img.shields.io/github/v/release/abyrvalg379/smena?label=&style=flat-square&color=444c56) |
 
 ---
 
@@ -85,5 +86,6 @@ Pipeline & production tools: asset validation, lighting, pivots, color managemen
 | Тул | Описание | Скачать | Версия |
 |------|-------------|----------|------|
 | [FLOMASTER](https://github.com/abyrvalg379/FLOMASTER) | OCIO-лаунчер для DCC-приложений |  [exe](https://github.com/abyrvalg379/FLOMASTER/releases/latest) · [мануал](https://github.com/abyrvalg379/FLOMASTER/blob/HEAD/docs/FLOMASTER_Manual_RU.pdf) | ![](https://img.shields.io/github/v/release/abyrvalg379/FLOMASTER?label=&style=flat-square&color=444c56) |
+| [SMENA](https://github.com/abyrvalg379/smena) | Пассивный таймтрекер — сам пишет время активного окна, таски по ключевым словам, дашборд, темы, компактный виджет |  [exe](https://github.com/abyrvalg379/smena/releases/latest) | ![](https://img.shields.io/github/v/release/abyrvalg379/smena?label=&style=flat-square&color=444c56) |
 
 [Blender](#blender-ru) · [DCC Tools](#dcc-ru) · [Standalone](#standalone-ru)
